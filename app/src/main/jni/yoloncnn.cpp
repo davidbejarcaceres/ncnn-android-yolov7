@@ -162,17 +162,17 @@ JNIEXPORT jboolean JNICALL Java_com_tencent_ncnnyolov7_NcnnYolov7_loadModel(JNIE
 
     const char* modeltypes[] =
     {
-        "yolov7-tiny",
+        "yolov7-tiny"
     };
 
     const int target_sizes[] =
     {
-        640,
+        640
     };
 
     const float norm_vals[][3] =
     {
-        {1 / 255.f, 1 / 255.f , 1 / 255.f},
+        {1 / 255.f, 1 / 255.f , 1 / 255.f}
     };
 
     const char* modeltype = modeltypes[(int)modelid];

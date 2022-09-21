@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yolov7_demo</string>
+    <string name="changeCam">Cambiar Cámara</string>
+</resources>

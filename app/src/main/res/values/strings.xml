@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">yolov7_demo</string>
+    <string name="app_name">yolov7 Demo</string>
     <string-array name="model_array">
         <item>yolov7-tiny</item>
     </string-array>
@@ -8,4 +8,5 @@
         <item>CPU</item>
         <item>GPU</item>
     </string-array>
+    <string name="changeCam">Change Camera</string>
 </resources>
