@@ -9,19 +9,6 @@ https://github.com/nihui/opencv-mobile
 
 
 ## how to build and run
-### step1
-https://github.com/Tencent/ncnn/releases
-
-* Download ncnn-YYYYMMDD-android-vulkan.zip or build ncnn for android yourself
-* Extract ncnn-YYYYMMDD-android-vulkan.zip into **app/src/main/jni** and change the **ncnn_DIR** path to yours in **app/src/main/jni/CMakeLists.txt**
-
-### step2
-https://github.com/nihui/opencv-mobile
-
-* Download opencv-mobile-XYZ-android.zip
-* Extract opencv-mobile-XYZ-android.zip into **app/src/main/jni** and change the **OpenCV_DIR** path to yours in **app/src/main/jni/CMakeLists.txt**
-
-### step3
 * Open this project with Android Studio, build it and enjoy!
 
 ## some notes
@@ -32,7 +19,7 @@ https://github.com/nihui/opencv-mobile
 * FPS may be lower in dark environment because of longer camera exposure time
 
 ## screenshot
-![](photo_2022-07-17_22-33-38.jpg)
+![Screenshot_2022_09_21_21_41_30_957_com_davidbejarcaceres_yolov7_framed](https://user-images.githubusercontent.com/17320214/191608125-228788e6-f813-4766-929b-99f7df87fffa.png)
 
 ## reference  
 
